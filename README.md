@@ -1,0 +1,2 @@
+# Lululemon_Merchandise_Plannning
+Merchandise Forecasting for Lulumemon
